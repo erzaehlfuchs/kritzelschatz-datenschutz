@@ -7,7 +7,7 @@ Diese Seite wird im Google-Play-Store-Eintrag und bei den Angaben zur
 Datensicherheit verlinkt.
 
 - Inhalt: [`index.html`](index.html)
-- Verantwortlicher: Andre Voß, Lutherstadt Wittenberg
+- Verantwortliche: Catharina Lorenz (CanDre Studios), Lutherstadt Wittenberg
 
 ## Warum ein eigenes Repository?
 
