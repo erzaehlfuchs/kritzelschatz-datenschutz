@@ -1,24 +1,7 @@
-# Datenschutzerklärung – Kritzelschatz
+# Kritzelschatz Datenschutz (Weiterleitung)
 
-Öffentliche Datenschutzerklärung für die Android-App **Kritzelschatz**,
-veröffentlicht über GitHub Pages.
+Die Datenschutzerklärung der App ist umgezogen nach
+https://kritzelschatz.de/datenschutz-app (Quelle: `kritzelschatz-web/datenschutz-app.html`).
 
-Diese Seite wird im Google-Play-Store-Eintrag und bei den Angaben zur
-Datensicherheit verlinkt.
-
-- Inhalt: [`index.html`](index.html)
-- Verantwortliche: Catharina Lorenz (CanDre Studios), Lutherstadt Wittenberg
-
-## Warum ein eigenes Repository?
-
-Der App-Quellcode bleibt privat. Hier liegt ausschließlich die
-Datenschutzerklärung, damit sie über GitHub Pages kostenlos öffentlich
-erreichbar ist — ohne den Quellcode offenlegen zu müssen.
-
-## Änderungen
-
-`index.html` bearbeiten, das Datum im Kopf („Stand: …") anpassen, committen
-und pushen. GitHub Pages aktualisiert die Seite automatisch.
-
-> Die Quelldatei liegt zusätzlich im App-Projekt unter
-> `docs/datenschutz.html`. Beide Fassungen bei Änderungen synchron halten.
+Diese GitHub-Pages-Seite bleibt dauerhaft als Weiterleitung bestehen, weil ältere
+App-Versionen die alte Adresse fest eingebaut haben.
